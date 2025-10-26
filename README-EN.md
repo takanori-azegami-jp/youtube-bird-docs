@@ -16,31 +16,21 @@ This privacy policy applies only to the extension developed by the developer.
 
 ### Acquisition and Purpose of Use of Personal Information
 
-The developer does not release extensions that have functions to collect personal information.
-**However, some personal information is stored in the user's browser local storage.**
+This extension does not collect, store, or transmit personal information.
 
-#### Acquisition Method
+#### Extension Functionality
 
-Information is obtained from input forms within the extension and DOM information of websites.
-Some of the obtained information is stored in the browser's local storage.
+This extension provides the following functionality on YouTube video pages:
 
-#### Purpose of Use
+- Monitors YouTube comment section DOM to detect specific keywords (e.g., "草", "lol")
+- Displays bird animations and speech bubbles on the screen when keywords are detected
 
-##### Improving Convenience
+**Important Notes:**
 
-The extension stores the following information in the **"browser's local storage"**:
-
-- Timestamps created by the extension
-- Settings information created by the extension
-- Image information created by the extension
-
-This allows the extension to automatically restore information created in the past when used next time, improving convenience.
-**Personal information is not sent to the developer and is stored in the user's browser local storage.**
-
-##### Retention Period
-
-The extension uses local storage for data handling.
-Since local storage does not have a retention period, the data retention period is until the extension is uninstalled.
+- Comment content is used only for temporary display and is not stored
+- Personal information (usernames, IDs, comment history, etc.) is not collected
+- No data is transmitted to external servers
+- No data is stored in browser local storage
 
 #### Consent to Handling of Personal Information
 
@@ -53,28 +43,27 @@ The extension does not use cookies.
 
 ### Management of Personal Information
 
-The developer ensures the following regarding the management of personal information within the extension.
-
-#### Ensuring Accuracy of Information
-
-The data entered by the user is always kept accurate.
+This extension does not collect personal information, therefore no personal information management occurs.
 
 #### Safety Management Measures
 
-To prevent leakage and loss of information, the extension does not send information to servers for purposes other than the intended use within the extension.
+The extension implements the following safety management measures:
+
+- No transmission of information to external servers
+- No data storage in browser local storage
+- Temporary display of YouTube comments only, without storage
 
 #### Provision of Personal Information to Third Parties
 
-The developer's extensions do not provide personal information provided by users to third parties without the user's consent.
-If third-party provision is to be conducted in the future, the information to be provided and the purpose of provision will be presented, and third-party provision will only be conducted with the user's consent.
+This extension does not collect personal information, therefore no third-party provision occurs.
 
 #### Contact Information
 
 For inquiries regarding the extension or the handling of personal information, please contact the following email address:
 
-Email address: t.azegami213@gmail.com
+Email address: <t.azegami213@gmail.com>
 
 ## Date of Enactment and Updates
 
-- Date of Enactment: 2025/1/12
-- Last Updated: 2025/4/15
+- Date of Enactment: 2025/10/26
+- Last Updated: 2025/10/26
