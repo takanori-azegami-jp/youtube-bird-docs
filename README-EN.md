@@ -22,15 +22,15 @@ This extension does not collect, store, or transmit personal information.
 
 This extension provides the following functionality on YouTube video pages:
 
-- Monitors YouTube comment section DOM to detect specific keywords (e.g., "草", "lol")
-- Displays bird animations and speech bubbles on the screen when keywords are detected
+- Monitors YouTube comment section and displays bird animations and speech bubbles in response to comments
+- Toggle bird visibility by clicking on the bird
 
 **Important Notes:**
 
 - Comment content is used only for temporary display and is not stored
 - Personal information (usernames, IDs, comment history, etc.) is not collected
 - No data is transmitted to external servers
-- No data is stored in browser local storage
+- Browser local storage only stores the bird's visibility state (visible/hidden) and does not contain personally identifiable information
 
 #### Consent to Handling of Personal Information
 
@@ -50,7 +50,7 @@ This extension does not collect personal information, therefore no personal info
 The extension implements the following safety management measures:
 
 - No transmission of information to external servers
-- No data storage in browser local storage
+- Browser local storage only stores the bird's visibility state (visible/hidden) and does not contain personally identifiable information
 - Temporary display of YouTube comments only, without storage
 
 #### Provision of Personal Information to Third Parties
@@ -66,4 +66,4 @@ Email address: <t.azegami213@gmail.com>
 ## Date of Enactment and Updates
 
 - Date of Enactment: 2025/10/26
-- Last Updated: 2025/10/26
+- Last Updated: 2025/11/03
