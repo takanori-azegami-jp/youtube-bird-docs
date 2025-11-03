@@ -20,17 +20,13 @@ This extension does not collect, store, or transmit personal information.
 
 #### Extension Functionality
 
-This extension provides the following functionality on YouTube video pages:
-
-- Monitors YouTube comment section and displays bird animations and speech bubbles in response to comments
-- Toggle bird visibility by clicking on the bird
+This extension provides supplementary features to enhance the YouTube viewing experience. Key features include settings management functions and other enhancements.
 
 **Important Notes:**
 
-- Comment content is used only for temporary display and is not stored
-- Personal information (usernames, IDs, comment history, etc.) is not collected
+- Personal information (usernames, IDs, browsing history, etc.) is not collected
 - No data is transmitted to external servers
-- Browser local storage only stores the bird's visibility state (visible/hidden) and does not contain personally identifiable information
+- Browser local storage only stores the extension's settings and does not contain personally identifiable information
 
 #### Consent to Handling of Personal Information
 
@@ -50,8 +46,7 @@ This extension does not collect personal information, therefore no personal info
 The extension implements the following safety management measures:
 
 - No transmission of information to external servers
-- Browser local storage only stores the bird's visibility state (visible/hidden) and does not contain personally identifiable information
-- Temporary display of YouTube comments only, without storage
+- Browser local storage only stores the extension's settings and does not contain personally identifiable information
 
 #### Provision of Personal Information to Third Parties
 
